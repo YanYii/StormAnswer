@@ -41,4 +41,5 @@ public class QaServiceImpl implements QaService {
 
         return search;
     }
+
 }
